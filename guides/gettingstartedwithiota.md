@@ -4,9 +4,9 @@ Siga esse passos para iniciar com a carteira da IOTA versão 2.5.4
 
 Passo 1) Fazer o download da carteira oficial da IOTA.
 
-        *Usuários Windows:* Download da última versão [aqui.](https://github.com/iotaledger/wallet/releases/download/v2.5.4/IOTA.Wallet.Setup.2.5.4.exe)
-        *Usuários Mac:* Download da última versão [aqui.](https://github.com/iotaledger/wallet/releases/download/v2.5.4/IOTA.Wallet-2.5.4.dmg)
-        *Usuários Linux:* Download da última versão [aqui.](https://github.com/iotaledger/wallet/releases/download/v2.5.4/iota_2.5.4_amd64.deb)
+        **Usuários Windows:** Download da última versão [aqui.](https://github.com/iotaledger/wallet/releases/download/v2.5.4/IOTA.Wallet.Setup.2.5.4.exe)
+        **Usuários Mac:** Download da última versão [aqui.](https://github.com/iotaledger/wallet/releases/download/v2.5.4/IOTA.Wallet-2.5.4.dmg)
+        **Usuários Linux:** Download da última versão [aqui.](https://github.com/iotaledger/wallet/releases/download/v2.5.4/iota_2.5.4_amd64.deb)
 --
 
 Step 2) Follow the download wizard to install the appropriate software as listed above. If you receive a security warning pop-up ignore it, creating an exception.
