@@ -1,0 +1,33 @@
+***Make sure to only send a new transaction after your previous sent transaction has been confirmed***
+
+Visit the "What is a double spend?" section for more information.
+
+In your wallet, click “Send”.
+
+Enter the recipient’s receive address into the appropriate field, and input + select the amount and units you would like to send.
+
+Click “Send it Now”.
+
+It should take seconds to minutes for your device to complete the proof-of-work required to send a transaction.
+
+As long as the wallet continues to say “Sending”, your device is doing proof of work. It IS safe to exit out of the wallet any time during this process, although that will cancel the transaction before it’s sent.
+
+If your wallet is stuck on "Sending", close out and switch hosts before trying again (To switch hosts: "Tools" > "Edit Node Configuration" > choose a different host from the dropdown menu).
+
+Some devices have trouble with the proof-of-work or have GPU issues (Intel fix: https://communities.intel.com/thread/115377).
+
+When your device has finished the proof of work required to send a transaction, the wallet will say “Transaction Sent” and the transaction will appear as "Pending" in your history.
+
+Note: Sending a subsequent transaction is called a “double-spend”, and only one of those two transactions will eventually be confirmed. Of those two transactions, the one that remains pending will never be confirmed, so you’ll need to send it again in a completely new transaction.
+
+Confirmation time is an extremely complex topic and multi-factorial in nature. Transactions can be confirmed in a few seconds, but may take up to hours.
+
+The transaction sent from your wallet appears in your History as “Pending”, click on “Show bundle” (located below the associated transaction in the History section), and then click “Re-attach”. You can reattach once for every 30 minutes that the transaction remains pending.
+
+Troubleshoot: After 5 re-attachments without confirmation, it’s possible that your host is not properly synced. Click “Tools” > “Edit Node Configuration” > choose a different host from the drop-down menu and try to reattach again.
+ 
+ 
+Any Comments/Suggestions?
+If you have any comments or suggestions for "How-To: Send a transaction", please let us know in the comments section below. You may also contact us by submitting a Ticket, or by commenting on the Forum. We would be happy to hear from you.
+ 
+Thanks for reading.
