@@ -1,0 +1,34 @@
+***Use a new receive address for each new transaction you receive (Details in: What are Winternitz One Time Signatures?)***
+
+In IOTA, the security of a transaction decreases when you send tokens more than once from the same address. To ensure that you are safe, you should always generate a new receive address.
+
+In the official GUI light wallet:
+
+Click "Receive"
+Click "Attach address to Tangle"
+Attaching to the Tangle should take between 10 seconds & a few minutes. (For simplicity: generate and use a new receive address for each new transaction you receive. Click here to find out why.]
+NOTE: Your attached address will show up as “Pending” in History. This is okay, as attached addresses don’t need to be confirmed.
+
+Why am I attaching an address to the Tangle in the first place? Answer: It’s a neat little trick that allows the wallet to know what addresses have been used. It also helps to make the network a bit more active by adding one transaction.
+
+Visit this section to learn more about attaching addresses to the Tangle.
+
+NOTE: It is NOT necessary to attach addresses to the tangle in order to receive a transaction. “Attach to Tangle” is simply a feature built into the wallet to streamline functionality. You will still receive transactions sent to un-attached addresses!
+
+Now that the address is attached, click on the address itself to copy it. Give this address to anyone who would like to send you some IOTA.!
+
+Confirmation time is an extremely complex topic, and multifactorial in nature. Transactions can be confirmed in a few seconds, but may take up to hours.
+
+Visit this section to learn more about confirmation time.
+
+If the transaction is sent to your wallet and shows in your History as “Pending”, click on “Show bundle” (located below the associated transaction in the History section), and then click “Reattach”. You can reattach once for every 30 minutes that the transaction remains pending.
+
+Troubleshooting: If the transaction remains “pending” after 5 reattachments, it is likely that the sender accidentally double-spent your transaction. This means that the transaction will never be confirmed, and the sender should send a brand new transaction.
+
+Troubleshooting: After 5 reattachments without confirmation, it’s also possible that your host is not properly synced. Click “Tools” > “Edit Node Configuration” > choose a different host from the drop-down menu and try to reattach again.
+ 
+
+Any Comments/Suggestions?
+If you have any comments or suggestions for "How-To: Receive a transaction", please let us know in the comments section below. You may also contact us by submitting a Ticket, or by commenting on the Forum. We would be happy to hear from you.
+ 
+Thanks for reading.
