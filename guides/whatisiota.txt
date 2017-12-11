@@ -1,0 +1,83 @@
+IOTA is a ground breaking new open-source distributed ledger that does not use a blockchain. 
+
+Its innovative new quantum-proof protocol, known as the Tangle, gives rise to unique new features like zero fees, infinite scalability, fast transactions, secure data transfer, and many others. 
+
+IOTA is initially focused on serving as the backbone of the Internet-of-Things (IoT).
+
+Features
+
+Zero Fees
+
+In order to send an IOTA transaction, a user’s device must simply confirm two other transactions on the Tangle (the network). To confirm these two transactions, a device performs low difficulty “proof-of-work”, which is essentially a series of math problems. These math problems can be solved by almost any modern device including laptops and phones. 
+
+The user and validator (miner, staker, etc.) are no longer decoupled entities in IOTA. This removes the need to waste large quantities of energy on mining, or risk inevitable validation centralization. Perhaps more importantly, because the Tangle eliminates the requirement of miners/stakers/etc., newly minted units of currency and transaction fees do not need to be extracted from the system to pay validation fees. The result is that IOTA has zero fees. 
+
+The proof-of-work in IOTA should not be compared to that used in traditional blockchains. IOTA’s proof-of-work is directly comparable to Hashcash, and it serves two purposes: To prevent spam and to prevent Sybil-attacks. The proof-of-work in IOTA can even be outsourced from small lightweight devices to something more able to handle the computational load. 
+
+Infinitely Scalable
+
+Since each transaction requires the sender to verify two other transactions on the Tangle, more transactions can be confirmed as the number of users sending them increases. This means that IOTA scales proportionally to the number of transactions ad infinitum. IOTA scalability is depicted in this graph. 
+
+
+Fast Transactions
+
+Transaction times are inversely proportional to the number of transactions on the Tangle. The more transactions, the more quickly each transaction will be confirmed. As IOTA approaches critical mass of adoption, transaction times will approach the network propagation time. 
+
+
+Fixed Money Supply
+
+All of the IOTA that will ever exist were created in the genesis block. The amount will never increase or decrease. The total money supply of 2,779,530,283,277,761 is optimized for ternary computation and notation ease of use utilizing SI units. ((3^33-1)/2) = 2.779 x 10^15 
+
+
+
+
+Quantum Proof
+
+IOTA uses hash-based signatures instead of Elliptic-curve cryptography (ECC). Not only are hash-based signatures much faster than ECC, they also greatly simplify the signing and verification process and reduce overall complexity of the Tangle protocol. 
+
+Other Features
+
+Other features include: immutable ledger, sharding/snapshotting/swarming, modularity, extremely lightweight, secure data transfer, decentralized, and private. 
+
+The Tangle
+
+IOTA uses the Tangle, which is a software protocol that fundamentally differs from the blockchain protocol. The brilliance of the Tangle is that transactions are processed in parallel. The Tangle differs from blockchain in two main ways: 
+
+1) IOTA is able to achieve high transaction throughput by parallelizing validation. As the Tangle grows with more transactions, IOTA becomes faster and more secure with transaction finality happening more quickly as network critical mass is approached. 
+
+2) The way consensus is achieved in a blockchain is through a rigorous mechanism that requires multiple parties to “race” against each other in an attempt to add the next block and earn the block rewards. Since “miners” and “users” are decoupled entities, block rewards paid to miners will eventually mostly consist of users’ transaction fees. In the Tangle, “miners” and “users” are no longer decoupled entities. 
+
+In order for a transaction to be confirmed on a blockchain, a certain arbitrary time interval must elapse for block creation. The Tangle allows for asynchronous settlement, meaning that there are no extrinsic arbitrary temporal restraints on transaction finalization. 
+
+The Tangle is programmed in ternary which is a deviation from the traditional binary code. Ternary is much more efficient than binary, and provides for some significant improvements in functionality. The Tangle can be run on binary or ternary systems. 
+
+
+
+
+Paradigm Shift
+
+You’re probably used to hearing about Bitcoin’s scalability problems and long confirmation times due to a growing user base. The opposite will be true in IOTA. In fact, confirmation times will take the longest when the network is very small, while they will approach zero as the user base grows in size. Along these same lines, as the number of transactions in IOTA increases, the capacity of the Tangle to handle even more transactions is increased. This is a brand new concept that will take some getting used to. The concept that the Tangle doesn’t function optimally until critical mass adoption is important to understand. 
+
+Brief History
+
+David Sønstebø, Sergey Ivancheglo, Dominik Schiener, and Dr. Serguei Popov founded IOTA in 2015. Serguei Popov, a Ph.D. in mathematics, laid out the math required for the Tangle which was then written into code by the programming prodigies Sergey Ivancheglo and Dominik Schiener. The project is led by David Sønstebø, an expert in business and technology. This group has been extensively involved in the cryptocurrency space for many years, all with impressive resumes and notable past successes. 
+
+IOTA hosted a crowdsale in December of 2015 at which time the entire money supply was distributed to crowdsale participants. The event raised 1,337 bitcoin for project development. There was no premine, instamine, or otherwise. In order to incentivize the co-founders and growing team of developers, the IOTA community united to donate a significant amount of resources to establish the IOTA Foundation. The IOTA Foundation is a "gemeinnützige Stiftung" (i.e. non-profit Foundation) located in Germany. In addition to its original funding, The Foundation is eligible to receive support from government grants and corporate contributions (similar to the Linux Foundation). 
+
+In its continued pursuit of excellence, the IOTA community subsequently funded “The Big Deal” via donations. This deal would aid in establishing numerous large corporate collaborations in the realm of IoT, most of which are yet to be publicly revealed due to legal agreements. As if that wasn’t enough, the community showed its commitment yet again by establishing the “Investor’s Club” with a focus on funding more community-centric projects and growing the ecosystem organically and sustainably. The IOTA community’s actions have proven steadfast commitment to, and belief in the long term success of the project. It continues to be extremely generous with its contributions to the ecosystem. 
+
+IOTA entered open-beta testing in the summer of 2016. 
+
+It should also be mentioned that the IOTA founders are developing hardware for the purpose of further enabling the Internet-of-Things. Details will be revealed in the future.
+
+ 
+
+Any Comments/Suggestions?
+If you have any comments or suggestions for "What is IOTA?", please let us know in the comments section below. You may also contact us by submitting a Ticket, or by commenting on the Forum. We would be happy to hear from you.
+ 
+Thanks for reading.
+
+
+Options...
+
+What is IOTA?
