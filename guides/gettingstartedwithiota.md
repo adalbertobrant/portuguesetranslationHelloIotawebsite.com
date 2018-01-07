@@ -9,12 +9,12 @@ Passo 1) Fazer o download da carteira oficial da IOTA.
         **Usuários Linux:** Download da última versão [aqui.](https://github.com/iotaledger/wallet/releases/download/v2.5.4/iota_2.5.4_amd64.deb)
 --
 
-Step 2) Follow the download wizard to install the appropriate software as listed above. If you receive a security warning pop-up ignore it, creating an exception.
+Passo 2) Siga o assistente de configuração para instalar o software como mostrado acima. Se você receber um aviso de segurança basta ignorar ele.
 
 
 --
 
-Step 3) Go to TOOLS > EDIT NODE CONFIGURATION.
+Passo 3) Vá para TOOLS > EDIT NODE CONFIGURATION.
 
 Choose ANY host (it doesn't matter which host you choose - you can change at any time in the future).
 Setup Min Weight Magnitude at 14
